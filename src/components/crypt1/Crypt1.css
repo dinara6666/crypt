@@ -1,0 +1,72 @@
+
+.h11{
+    font-size: 48px;
+    margin-left: 60px;
+}
+
+.p1{
+    font-size:8px;
+    margin-left: 60px;
+    margin-bottom: 60px;
+    position: relative;
+    bottom: 40px;
+}
+
+.app{
+    margin-left: 55px;
+    position: relative;
+    bottom: 90px;
+}
+
+.tel{
+
+
+    img{
+        width: 500px;
+        position: relative;
+        margin-left: 500px;
+
+        bottom: 363px;
+    }
+}
+
+
+.fi{
+
+    position: relative;
+    bottom: 400px;
+
+    text-align: center;
+
+
+    h2{
+        font-size: 30px;
+    }
+    P{
+        position: relative;
+        bottom: 20px;
+        font-size: 10px;
+    }
+}
+
+
+.f{
+    display: flex;
+
+    text-align: center;
+}
+
+.hz{
+    margin-left: 05px;
+    position: relative;
+    bottom: 330px;
+    align-items: center;
+
+}
+
+
+.str{
+    color: deepskyblue;
+}
+
+

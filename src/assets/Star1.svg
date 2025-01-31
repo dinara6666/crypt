@@ -1,0 +1,39 @@
+<svg width="296" height="25" viewBox="0 0 296 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M29 3C29 1.34315 30.3431 0 32 0H50C51.6569 0 53 1.34315 53 3V21C53 22.6569 51.6569 24 50 24H32C30.3431 24 29 22.6569 29 21V3Z" fill="#212250"/>
+    <g clip-path="url(#clip0_1_300)">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M41 16.7763L36.6797 18.9964L37.5048 14.2942L34.0097 10.9642L38.8399 10.2781L41 6L43.1601 10.2781L47.9902 10.9642L44.4951 14.2942L45.3202 18.9964L41 16.7763Z" fill="#159BE8"/>
+    </g>
+    <path d="M85 3C85 1.34315 86.3431 0 88 0H106C107.657 0 109 1.34315 109 3V21C109 22.6569 107.657 24 106 24H88C86.3431 24 85 22.6569 85 21V3Z" fill="#212250"/>
+    <g clip-path="url(#clip1_1_300)">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M97 16.7763L92.6797 18.9964L93.5048 14.2942L90.0097 10.9642L94.8399 10.2781L97 6L99.1601 10.2781L103.99 10.9642L100.495 14.2942L101.32 18.9964L97 16.7763Z" fill="#159BE8"/>
+    </g>
+    <path d="M1 3C1 1.34315 2.34315 0 4 0H22C23.6569 0 25 1.34315 25 3V21C25 22.6569 23.6569 24 22 24H4C2.34315 24 1 22.6569 1 21V3Z" fill="#212250"/>
+    <g clip-path="url(#clip2_1_300)">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M13 16.7763L8.67975 18.9964L9.50484 14.2942L6.0097 10.9642L10.8399 10.2781L13 6L15.1601 10.2781L19.9902 10.9642L16.4951 14.2942L17.3202 18.9964L13 16.7763Z" fill="#159BE8"/>
+    </g>
+    <path d="M113 3C113 1.34315 114.343 0 116 0H134C135.657 0 137 1.34315 137 3V21C137 22.6569 135.657 24 134 24H116C114.343 24 113 22.6569 113 21V3Z" fill="#212250"/>
+    <g clip-path="url(#clip3_1_300)">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M125 16.7763L120.68 18.9964L121.505 14.2942L118.01 10.9642L122.84 10.2781L125 6L127.16 10.2781L131.99 10.9642L128.495 14.2942L129.32 18.9964L125 16.7763Z" fill="#159BE8"/>
+    </g>
+    <path d="M57 3C57 1.34315 58.3431 0 60 0H78C79.6569 0 81 1.34315 81 3V21C81 22.6569 79.6569 24 78 24H60C58.3431 24 57 22.6569 57 21V3Z" fill="#212250"/>
+    <g clip-path="url(#clip4_1_300)">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M69 16.7763L64.6797 18.9964L65.5048 14.2942L62.0097 10.9642L66.8399 10.2781L69 6L71.1601 10.2781L75.9902 10.9642L72.4951 14.2942L73.3202 18.9964L69 16.7763Z" fill="#159BE8"/>
+    </g>
+    <defs>
+        <clipPath id="clip0_1_300">
+            <rect width="14" height="13" fill="white" transform="translate(34 6)"/>
+        </clipPath>
+        <clipPath id="clip1_1_300">
+            <rect width="14" height="13" fill="white" transform="translate(90 6)"/>
+        </clipPath>
+        <clipPath id="clip2_1_300">
+            <rect width="14" height="13" fill="white" transform="translate(6 6)"/>
+        </clipPath>
+        <clipPath id="clip3_1_300">
+            <rect width="14" height="13" fill="white" transform="translate(118 6)"/>
+        </clipPath>
+        <clipPath id="clip4_1_300">
+            <rect width="14" height="13" fill="white" transform="translate(62 6)"/>
+        </clipPath>
+    </defs>
+</svg>

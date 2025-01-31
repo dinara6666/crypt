@@ -1,0 +1,80 @@
+
+
+.mobil{
+    position: relative;
+    bottom: 750px;
+
+}
+
+
+.mobil-head{
+    margin-left: 10px;
+    position: relative;
+    top: 180px;
+
+
+    h5{
+        color: dodgerblue;
+       font-size: 14px;
+    }
+
+    h4{
+font-size: 20px;
+    }
+
+    p{
+font-size: 7px;
+    }
+}
+
+
+
+
+
+
+.pl2{
+    position: relative;
+    top: 220px;
+    display: flex;
+    gap: 30px;
+    margin-left: 10px;
+
+
+    p{
+
+        font-size: 6px;
+
+    }
+}
+
+
+
+.tel45{
+    display: flex;
+
+    img{
+        width: 250px;
+        position: relative;
+        left: 460px;
+        bottom: 150px;
+    }
+}
+
+
+.bt4{
+position: relative;
+    bottom: 240px;
+
+
+
+    button{
+        border-radius: 60px 60px;
+        padding: 10px 30px;
+        color: white;
+     background: rgba(21, 155, 232, 1);
+
+    }
+}
+
+
+

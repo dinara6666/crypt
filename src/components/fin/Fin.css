@@ -1,0 +1,154 @@
+
+
+
+.perf{
+    text-align: center;
+
+
+h4{
+    font-size: 20px;
+}
+
+
+    p{
+        position: relative;
+        bottom: 20px;
+        font-size: 7px;
+    }
+}
+
+
+.tel2{
+
+
+    img{
+        width: 270px;
+        margin-left: 360px;
+    }
+
+}
+
+
+
+.perf1{
+    margin-right: 680px;
+    text-align: right;
+    position: relative;
+    top: 90px;
+
+}
+
+
+.chek{
+
+ h6{
+     font-size: 14px;
+ }
+
+    p{
+        font-size: 8px;
+    }
+
+
+}
+
+
+
+.chek2{
+
+    h6{
+        font-size: 14px;
+    }
+
+    p{
+        font-size: 8px;
+    }
+
+
+}
+
+
+.chek3{
+
+    h6{
+        font-size: 14px;
+
+    }
+
+    p{
+        font-size: 8px;
+    }
+
+
+}
+
+
+
+
+
+
+
+
+
+.chek, .chek2, .chek3 {
+    display: block;
+    margin-bottom: 10px; /* Отступ между чек-блоками */
+}
+
+.tel2 img {
+    position: relative;
+    bottom: 400px ;
+    height: auto; /* Сохраняет пропорции */
+}
+
+
+
+
+
+
+.perf2{
+    margin-left: 670px;
+    position: relative;
+    bottom: 880px;
+}
+
+
+
+.chek4{
+
+    h6{
+        font-size: 14px;
+    }
+
+    p{
+        font-size: 8px;
+    }
+
+}
+
+
+
+.chek5{
+
+    h6{
+        font-size: 14px;
+    }
+
+    p{
+        font-size: 8px;
+    }
+
+}
+
+
+.chek6{
+
+    h6{
+        font-size: 14px;
+    }
+
+    p{
+        font-size: 8px;
+    }
+
+}
