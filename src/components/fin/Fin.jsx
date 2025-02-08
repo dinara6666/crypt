@@ -1,6 +1,6 @@
 import React from 'react';
 import "./Fin.css"
-import {Chek1, Tel2} from "../../assets/index.js";
+import { Tel2} from "../../assets/index.js";
 
 
 const Fin = () => {
@@ -16,21 +16,21 @@ const Fin = () => {
 
             <div className={"perf1"}>
             <div className={"chek"}>
-                <img src={Chek1}/>
+                {/*<img src={Chek1}/>*/}
                 <h6>Feature description</h6>
                 <p>Suspendisse varius enim in eros elementum <br/> tristique. Duis cursusSuspendisse varius enim
                     in <br/> eros elementum tristique. Duis cursus.</p>
             </div>
 
             <div className={"chek2"}>
-                <img src={Chek1}/>
+                {/*<img src={Chek1}/>*/}
                 <h6>Feature description</h6>
                 <p>Suspendisse varius enim in eros elementum <br/> tristique. Duis cursusSuspendisse varius enim
                     in <br/> eros elementum tristique. Duis cursus.</p>
             </div>
 
             <div className={"chek3"}>
-                <img src={Chek1}/>
+                {/*<img src={Chek1}/>*/}
                 <h6>Feature description</h6>
                 <p>Suspendisse varius enim in eros elementum <br/> tristique. Duis cursusSuspendisse varius enim
                     in <br/> eros elementum tristique. Duis cursus.</p>
@@ -47,21 +47,21 @@ const Fin = () => {
 
             <div className={"perf2"}>
             <div className={"chek4"}>
-                <img src={Chek1}/>
+                {/*<img src={Chek1}/>*/}
                 <h6>Feature description</h6>
                 <p>Suspendisse varius enim in eros elementum <br/> tristique. Duis cursusSuspendisse varius enim
                     in <br/> eros elementum tristique. Duis cursus.</p>
             </div>
 
             <div className={"chek5"}>
-                <img src={Chek1}/>
+                {/*<img src={Chek1}/>*/}
                 <h6>Feature description</h6>
                 <p>Suspendisse varius enim in eros elementum <br/> tristique. Duis cursusSuspendisse varius enim
                     in <br/> eros elementum tristique. Duis cursus.</p>
             </div>
 
             <div className={"chek6"}>
-                <img src={Chek1}/>
+                {/*<img src={Chek1}/>*/}
                 <h6>Feature description</h6>
                 <p>Suspendisse varius enim in eros elementum <br/> tristique. Duis cursusSuspendisse varius enim
                     in <br/> eros elementum tristique. Duis cursus.</p>
