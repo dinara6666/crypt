@@ -9,7 +9,7 @@ import Tel1 from "./Tel1.png"
 import Play from "./Play.svg"
 import Strl from "./Strl.svg"
 import Tel2 from "./Tel2.png"
-// import Chek1 from "./Chek1.svg"
+import Chek1 from "./chek1.svg"
 import Tel3 from "./Tel3.png"
 import Tel4 from "./Tel4.png"
 
@@ -41,7 +41,7 @@ Pol1,
     Play,
     Strl,
     Tel2,
-    // Chek1,
+    Chek1,
     Tel3,
     Tel4,
 
